@@ -1,16 +1,67 @@
-# NOTEMY
+### NOTEMY  
+A Simple note app   
+  
 
-A new Flutter project.
+<br/>  
 
-## Getting Started
 
-This project is a starting point for a Flutter application.
+## Features 
+<tr><td valign="top" width="50%">
+- **Hive Databse** 
 
-A few resources to get you started if this is your first Flutter project:
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
+- **Add Note Title**  
+  
 
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+- **Add Note description**  
+  
+
+- **Add Note Image**  
+  
+
+- **View Note**  
+   
+
+</td><td valign="top" width="50%">
+
+
+
+</td></tr>
+
+<br/>  
+
+
+## Languages and Tools  
+<div align="left">  
+<a href="https://developer.apple.com/swift/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/swift-original-wordmark.svg" alt="Swift" height="25" /></a>  
+<a href="https://flutter.dev/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/flutterio-icon.svg" alt="Flutter" height="25" /></a>  
+<a href="https://dart.dev/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/dartlang-icon.svg" alt="Dart" height="25" /></a>  
+</div>  
+
+<br/>  
+
+
+## App Screens  
+<tr><td valign="top" width="50%">
+
+<a href="https://ibb.co/4t0kcLZ"><img src="https://i.ibb.co/8sQkJwD/Mobile-app-devlopent.png" alt="Mobile-app-devlopent" border="0"></a><br /><br />
+
+
+</td><td valign="top" width="50%">
+
+
+
+</td></tr>  
+
+<br/>  
+
+  
+
+<br/>  
+
+  
+
+<br/>  
+
+
+<br />
